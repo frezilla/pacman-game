@@ -1,9 +1,7 @@
 package fr.frezilla.pacman.game.domain.worlds;
 
 import fr.frezilla.pacman.game.domain.elements.statics.StaticElement;
-import java.util.ArrayList;
 import java.util.Iterator;
-import java.util.List;
 import lombok.AccessLevel;
 import lombok.Data;
 import lombok.Getter;
@@ -12,29 +10,30 @@ import lombok.NonNull;
 @Data
 public final class World implements Iterable<StaticElement>{
     
+    public static final int MAX_CAPACITY = 1000000;
     private final int height;
     private final int width;
     
-    @Getter(AccessLevel.NONE) private final List<StaticElement> staticElements;
+    @Getter(AccessLevel.NONE) private final StaticElement[] staticElements;
     
     public World(int width, int height) {
-        if (width <= 0 || height <= 0) {
+        if (width <= 0 || height <= 0 || width * height > MAX_CAPACITY) {
             throw new IllegalArgumentException();
         }
         this.height = height;
         this.width = width;
-        staticElements = new ArrayList<>(this.height * this.width);
+        staticElements = new StaticElement[this.height * this.width];
     }
 
     StaticElement get(int index) {
-        return staticElements.get(index);
+        return staticElements[index];
     }
     
     public StaticElement get(int x, int y) {
-        if (x <= 0 || y <= 0) {
+        if (x <= 0 || y <= 0 || x * y >= this.staticElements.length) {
             throw new IllegalArgumentException();
         }
-        return this.get(x + y * width);
+        return this.staticElements[x + y * width];
     }
 
     @Override
@@ -43,10 +42,10 @@ public final class World implements Iterable<StaticElement>{
     }
     
     public void set(int x, int y, @NonNull StaticElement staticElement) {
-        if (x <= 0 || y <= 0) {
+        if (x <= 0 || y <= 0 || x * y >= this.staticElements.length) {
             throw new IllegalArgumentException();
         }
-        this.staticElements.add(x + y * this.width, staticElement);
+        this.staticElements[x + y * this.width] = staticElement;
     }
     
 }
