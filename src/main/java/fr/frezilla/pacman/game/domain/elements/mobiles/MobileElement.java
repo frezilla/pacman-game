@@ -12,9 +12,5 @@ public abstract class MobileElement extends Element {
     private int position;
     private int statusTime;
     private int speed;
-    
-
-    
-    
-    
+   
 }

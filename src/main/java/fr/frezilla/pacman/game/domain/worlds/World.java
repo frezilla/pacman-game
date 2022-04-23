@@ -30,7 +30,7 @@ public final class World implements Iterable<StaticElement>{
     }
     
     public StaticElement get(int x, int y) {
-        if (x <= 0 || y <= 0 || x * y >= this.staticElements.length) {
+        if (x < 0 || y < 0 || x * y >= this.staticElements.length) {
             throw new IllegalArgumentException();
         }
         return this.staticElements[x + y * width];
@@ -42,7 +42,7 @@ public final class World implements Iterable<StaticElement>{
     }
     
     public void set(int x, int y, @NonNull StaticElement staticElement) {
-        if (x <= 0 || y <= 0 || x * y >= this.staticElements.length) {
+        if (x < 0 || y < 0 || x * y >= this.staticElements.length) {
             throw new IllegalArgumentException();
         }
         this.staticElements[x + y * this.width] = staticElement;
