@@ -25,7 +25,7 @@ public final class Characters {
         return 
                 this.mobileElements
                         .stream()
-                        .filter(me -> { return me.getX() == x && me.getY() == y; })
+                        .filter(me -> me.getX() == x && me.getY() == y )
                         .collect(Collectors.toSet());
     }
     

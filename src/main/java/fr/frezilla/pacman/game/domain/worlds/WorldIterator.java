@@ -23,7 +23,7 @@ final class WorldIterator implements Iterator<StaticElement> {
 
     @Override
     public StaticElement next() {
-        if (!(this.index + 1 < this.nbElements)) {
+        if (this.index + 1 >= this.nbElements) {
             throw new NoSuchElementException();
         }
         this.index++;
