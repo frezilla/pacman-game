@@ -24,7 +24,16 @@ class WorldTest {
         return new World(width, height);
     }
     
-    private Executable buildExecutable(int width, int height, final StaticElement staticElement) {
+    private Executable buildExecutableToConstruct(int width, int height) {
+        return new Executable() {
+            @Override
+            public void execute() throws Throwable {
+                buildWorld(width, height);
+            }
+        };
+    }
+    
+    private Executable buildExecutableToSet(int width, int height, final StaticElement staticElement) {
         return new Executable() {
             @Override
             public void execute() throws Throwable {
@@ -49,23 +58,23 @@ class WorldTest {
 
         width = RandomGenerator.generateNegativeInt();
         height = RandomGenerator.generateNegativeInt();
-        assertThrows(IllegalArgumentException.class, buildExecutable(width, height, staticElement));
+        assertThrows(IllegalArgumentException.class, buildExecutableToSet(width, height, staticElement));
         
         width = RandomGenerator.generateNegativeInt();
         height = 0;
-        assertThrows(IllegalArgumentException.class, buildExecutable(width, height, staticElement));
+        assertThrows(IllegalArgumentException.class, buildExecutableToSet(width, height, staticElement));
         
         width = RandomGenerator.generateNegativeInt();
         height = RandomGenerator.generatePositiveInt();
-        assertThrows(IllegalArgumentException.class, buildExecutable(width, height, staticElement));
+        assertThrows(IllegalArgumentException.class, buildExecutableToSet(width, height, staticElement));
         
         width = 0;
         height = RandomGenerator.generateNegativeInt();
-        assertThrows(IllegalArgumentException.class, buildExecutable(width, height, staticElement));
+        assertThrows(IllegalArgumentException.class, buildExecutableToSet(width, height, staticElement));
         
         width = RandomGenerator.generatePositiveInt();
         height = RandomGenerator.generateNegativeInt();
-        assertThrows(IllegalArgumentException.class, buildExecutable(width, height, staticElement));
+        assertThrows(IllegalArgumentException.class, buildExecutableToSet(width, height, staticElement));
         
         
         assertAll((Executable) () -> {
@@ -86,23 +95,23 @@ class WorldTest {
 
         width = RandomGenerator.generateNegativeInt();
         height = RandomGenerator.generateNegativeInt();
-        assertThrows(IllegalArgumentException.class, () -> { buildWorld(width, height); });
+        assertThrows(IllegalArgumentException.class, buildExecutableToConstruct(width, height));
         
         width = RandomGenerator.generateNegativeInt();
         height = RandomGenerator.generatePositiveInt();
-        assertThrows(IllegalArgumentException.class, () -> { buildWorld(width, height); });
+        assertThrows(IllegalArgumentException.class, buildExecutableToConstruct(width, height));
         
         width = RandomGenerator.generatePositiveInt();
         height = RandomGenerator.generateNegativeInt();
-        assertThrows(IllegalArgumentException.class, () -> { buildWorld(width, height); });
-        
+        assertThrows(IllegalArgumentException.class, buildExecutableToConstruct(width, height));
+                
         assertAll((Executable) () -> {
-            int width = RandomGenerator.generatePositiveInt();
-            int height = RandomGenerator.generatePositiveInt();
-            World world = buildWorld(width, height);
+            int w = RandomGenerator.generatePositiveInt();
+            int h = RandomGenerator.generatePositiveInt();
+            World world = buildWorld(w, h);
             
-            assertEquals(width, world.getWidth());
-            assertEquals(height, world.getHeight());
+            assertEquals(w, world.getWidth());
+            assertEquals(h, world.getHeight());
         });
     }
 
