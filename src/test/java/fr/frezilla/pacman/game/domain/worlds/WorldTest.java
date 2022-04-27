@@ -81,18 +81,21 @@ class WorldTest {
     
     @Test
     void constructionTest() {
-        assertThrows(
-                IllegalArgumentException.class, 
-                () -> { buildWorld(RandomGenerator.generateNegativeInt(), RandomGenerator.generateNegativeInt()); }
-        );
-        assertThrows(
-                IllegalArgumentException.class, 
-                () -> { buildWorld(RandomGenerator.generateNegativeInt(), RandomGenerator.generatePositiveInt()); }
-        );
-        assertThrows(
-                IllegalArgumentException.class, 
-                () -> { buildWorld(RandomGenerator.generatePositiveInt(), RandomGenerator.generateNegativeInt()); }
-        );
+        int width;
+        int height;
+
+        width = RandomGenerator.generateNegativeInt();
+        height = RandomGenerator.generateNegativeInt();
+        assertThrows(IllegalArgumentException.class, () -> { buildWorld(width, height); });
+        
+        width = RandomGenerator.generateNegativeInt();
+        height = RandomGenerator.generatePositiveInt();
+        assertThrows(IllegalArgumentException.class, () -> { buildWorld(width, height); });
+        
+        width = RandomGenerator.generatePositiveInt();
+        height = RandomGenerator.generateNegativeInt();
+        assertThrows(IllegalArgumentException.class, () -> { buildWorld(width, height); });
+        
         assertAll((Executable) () -> {
             int width = RandomGenerator.generatePositiveInt();
             int height = RandomGenerator.generatePositiveInt();
