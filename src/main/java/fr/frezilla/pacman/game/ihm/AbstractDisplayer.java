@@ -5,7 +5,7 @@ public abstract class AbstractDisplayer implements Displayer {
     private final int fps;
     private boolean isRunning;
     
-    public AbstractDisplayer(int fps) {
+    protected AbstractDisplayer(int fps) {
         if (fps < 1) {
             throw new IllegalArgumentException();
         }
