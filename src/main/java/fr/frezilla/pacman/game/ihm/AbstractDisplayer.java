@@ -32,15 +32,20 @@ public abstract class AbstractDisplayer implements Displayer {
             
             long elapsedTime = System.nanoTime() - lastTime;
             long sleepTime = (delayPerFrame - elapsedTime) / 1000000;
-            if (sleepTime > 0) {
-                try {
-                    Thread.sleep(sleepTime);
-                } catch (InterruptedException ex) {
-                    ex.printStackTrace();
-                }
-            }
+            sleep(sleepTime);
+            
         }
         dispose();
+    }
+    
+    private void sleep(long sleepTime) {
+        if (sleepTime > 0) {
+            try {
+                Thread.sleep(sleepTime);
+            } catch (InterruptedException ex) {
+                ex.printStackTrace();
+            }
+        }
     }
     
 }
