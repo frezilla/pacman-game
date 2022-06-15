@@ -1,0 +1,1394 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="320"
+   height="320"
+   viewBox="0 0 320 320"
+   version="1.1"
+   id="svg143"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="Pacem-tileset.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#">
+  <sodipodi:namedview
+     id="namedview145"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="3.0011188"
+     inkscape:cx="90.632867"
+     inkscape:cy="140.28102"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid147"
+       empspacing="4"
+       originx="0"
+       originy="0" />
+  </sodipodi:namedview>
+  <defs
+     id="defs140" />
+  <g
+     inkscape:label="Tuiles"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <g
+       id="g3753"
+       inkscape:label="Pastille"
+       transform="translate(0,128)">
+      <rect
+         style="display:inline;fill:none"
+         id="rect151-3-7-7-5-1-0-8-7-1-9-7"
+         width="64"
+         height="64"
+         x="-64"
+         y="64"
+         inkscape:label="Fond"
+         transform="rotate(90,32,96)" />
+      <circle
+         style="display:inline;fill:#ffff00;fill-opacity:1;stroke:#aa3232;stroke-width:0"
+         id="path2999"
+         cx="32"
+         cy="32"
+         r="4"
+         inkscape:label="Pastille" />
+    </g>
+    <g
+       id="g4154"
+       inkscape:label="Gomme">
+      <g
+         id="g3753-1-5"
+         inkscape:label="Gomme Pastille 5"
+         style="display:inline"
+         transform="translate(256,256)">
+        <rect
+           style="display:inline;fill:none"
+           id="rect151-3-7-7-5-1-0-8-7-1-9-7-9-2"
+           width="64"
+           height="64"
+           x="-64"
+           y="64"
+           inkscape:label="Fond"
+           transform="rotate(90,32,96)" />
+        <circle
+           style="display:inline;fill:#ffff00;fill-opacity:1;stroke:#aa3232;stroke-width:0"
+           id="path2999-9-6"
+           cx="32"
+           cy="32"
+           inkscape:label="Pastille"
+           r="8" />
+      </g>
+      <g
+         id="g3753-1-6-4"
+         inkscape:label="Gomme Pastille 1"
+         style="display:inline"
+         transform="translate(192,256)">
+        <rect
+           style="display:inline;fill:none"
+           id="rect151-3-7-7-5-1-0-8-7-1-9-7-9-0-4"
+           width="64"
+           height="64"
+           x="-64"
+           y="64"
+           inkscape:label="Fond"
+           transform="rotate(90,32,96)" />
+        <circle
+           style="display:inline;fill:#ffff00;fill-opacity:1;stroke:#aa3232;stroke-width:0"
+           id="path2999-9-2-4"
+           cx="32"
+           cy="32"
+           inkscape:label="Pastille"
+           r="10" />
+      </g>
+      <g
+         id="g3753-1-6"
+         inkscape:label="Gomme Pastille 3"
+         style="display:inline"
+         transform="translate(128,256)">
+        <rect
+           style="display:inline;fill:none"
+           id="rect151-3-7-7-5-1-0-8-7-1-9-7-9-0"
+           width="64"
+           height="64"
+           x="-64"
+           y="64"
+           inkscape:label="Fond"
+           transform="rotate(90,32,96)" />
+        <circle
+           style="display:inline;fill:#ffff00;fill-opacity:1;stroke:#aa3232;stroke-width:0"
+           id="path2999-9-2"
+           cx="32"
+           cy="32"
+           inkscape:label="Pastille"
+           r="12" />
+      </g>
+      <g
+         id="g3753-1-1"
+         inkscape:label="Gomme Pastille 2"
+         style="display:inline"
+         transform="translate(64,256)">
+        <rect
+           style="display:inline;fill:none"
+           id="rect151-3-7-7-5-1-0-8-7-1-9-7-9-9"
+           width="64"
+           height="64"
+           x="-64"
+           y="64"
+           inkscape:label="Fond"
+           transform="rotate(90,32,96)" />
+        <circle
+           style="display:inline;fill:#ffff00;fill-opacity:1;stroke:#aa3232;stroke-width:0"
+           id="path2999-9-3"
+           cx="32"
+           cy="32"
+           inkscape:label="Pastille"
+           r="14" />
+      </g>
+      <g
+         id="g3753-1"
+         inkscape:label="Gomme Pastille 1"
+         style="display:inline"
+         transform="translate(0,256)">
+        <rect
+           style="display:inline;fill:none"
+           id="rect151-3-7-7-5-1-0-8-7-1-9-7-9"
+           width="64"
+           height="64"
+           x="-64"
+           y="64"
+           inkscape:label="Fond"
+           transform="rotate(90,32,96)" />
+        <circle
+           style="display:inline;fill:#ffff00;fill-opacity:1;stroke:#aa3232;stroke-width:0"
+           id="path2999-9"
+           cx="32"
+           cy="32"
+           inkscape:label="Pastille"
+           r="16" />
+      </g>
+    </g>
+    <g
+       id="g2945"
+       inkscape:label="Labyrinthe"
+       transform="translate(64)">
+      <g
+         id="g4394"
+         inkscape:label="Barre croisée"
+         transform="translate(128,192)">
+        <rect
+           style="fill:none"
+           id="rect151-3-7"
+           width="64"
+           height="64"
+           x="0"
+           y="-64"
+           inkscape:label="Fond"
+           transform="rotate(90)" />
+        <rect
+           style="fill:#1919a6;fill-opacity:1;stroke-width:2.374;stroke-dasharray:none"
+           id="rect261-3-2"
+           width="64"
+           height="16"
+           x="0"
+           y="24"
+           inkscape:label="Barre horizontale" />
+        <rect
+           style="fill:#1919a6;fill-opacity:1;stroke-width:2.374;stroke-dasharray:none"
+           id="rect261-3-5-0"
+           width="64"
+           height="16"
+           x="0"
+           y="-40"
+           inkscape:label="Barre verticale"
+           transform="rotate(90)" />
+        <rect
+           style="fill:#2121de;fill-opacity:1;stroke-width:0.839348"
+           id="rect261-62-9"
+           width="64"
+           height="2"
+           x="0"
+           y="-33"
+           inkscape:label="Barre centrale"
+           transform="rotate(90)" />
+        <rect
+           style="fill:#2121de;fill-opacity:1;stroke-width:0.513993"
+           id="rect261-6-7-1-6"
+           width="24"
+           height="2"
+           x="0"
+           y="-24"
+           inkscape:label="Bordure gauche haut"
+           transform="rotate(90)" />
+        <rect
+           style="fill:#2121de;fill-opacity:1;stroke-width:0.513993"
+           id="rect261-6-7-1-6-2"
+           width="24"
+           height="2"
+           x="40"
+           y="-24"
+           inkscape:label="Bordure gauche bas"
+           transform="rotate(90)" />
+        <rect
+           style="fill:#2121de;fill-opacity:1;stroke-width:0.513993"
+           id="rect261-6-7-1-6-3"
+           width="24"
+           height="2"
+           x="0"
+           y="-42"
+           inkscape:label="Bordure droit haut"
+           transform="rotate(90)" />
+        <rect
+           style="fill:#2121de;fill-opacity:1;stroke-width:0.513993"
+           id="rect261-6-7-1-6-2-7"
+           width="24"
+           height="2"
+           x="40"
+           y="-42"
+           inkscape:label="Bordure droit bas"
+           transform="rotate(90)" />
+        <rect
+           style="fill:#2121de;fill-opacity:1;stroke-width:0.839348"
+           id="rect261-61"
+           width="64"
+           height="2"
+           x="0"
+           y="31"
+           inkscape:label="Barre centrale" />
+        <rect
+           style="fill:#2121de;fill-opacity:1;stroke-width:0.492111"
+           id="rect261-6-8"
+           width="22"
+           height="2"
+           x="0"
+           y="22"
+           inkscape:label="Bordure haut gauche" />
+        <rect
+           style="fill:#2121de;fill-opacity:1;stroke-width:0.492111"
+           id="rect261-6-8-9"
+           width="22"
+           height="2"
+           x="42"
+           y="22"
+           inkscape:label="Bordure haut droit" />
+        <rect
+           style="fill:#2121de;fill-opacity:1;stroke-width:0.492111"
+           id="rect261-6-8-2"
+           width="22"
+           height="2"
+           x="0"
+           y="40"
+           inkscape:label="Bordure bas gauche" />
+        <rect
+           style="fill:#2121de;fill-opacity:1;stroke-width:0.492111"
+           id="rect261-6-8-9-0"
+           width="22"
+           height="2"
+           x="42"
+           y="40"
+           inkscape:label="Bordure bas droit" />
+      </g>
+      <g
+         id="g4125-5"
+         inkscape:label="Barre verticale"
+         transform="rotate(90,-32,160)">
+        <rect
+           style="fill:none"
+           id="rect151-3"
+           width="64"
+           height="64"
+           x="0"
+           y="0"
+           inkscape:label="Fond" />
+        <rect
+           style="fill:#1919a6;fill-opacity:1;stroke-width:2.374;stroke-dasharray:none"
+           id="rect261-3-5"
+           width="64"
+           height="16"
+           x="0"
+           y="24"
+           inkscape:label="Barre" />
+        <rect
+           style="fill:#2121de;fill-opacity:1;stroke-width:0.839348"
+           id="rect261-62"
+           width="64"
+           height="2"
+           x="0"
+           y="31"
+           inkscape:label="Barre centrale" />
+        <rect
+           style="fill:#2121de;fill-opacity:1;stroke-width:0.839348"
+           id="rect261-6-9"
+           width="64"
+           height="2"
+           x="0"
+           y="22"
+           inkscape:label="Bordure 2" />
+        <rect
+           style="fill:#2121de;fill-opacity:1;stroke-width:0.839348"
+           id="rect261-6-7-1"
+           width="64"
+           height="2"
+           x="0"
+           y="40"
+           inkscape:label="Bordure 1" />
+      </g>
+      <g
+         id="g4125"
+         inkscape:label="Barre horizontale"
+         transform="translate(0,196)">
+        <rect
+           style="fill:none"
+           id="rect151"
+           width="64"
+           height="64"
+           x="0"
+           y="0"
+           inkscape:label="Fond" />
+        <rect
+           style="fill:#1919a6;fill-opacity:1;stroke-width:2.374;stroke-dasharray:none"
+           id="rect261-3"
+           width="64"
+           height="16"
+           x="0"
+           y="24"
+           inkscape:label="Barre" />
+        <rect
+           style="fill:#2121de;fill-opacity:1;stroke-width:0.839348"
+           id="rect261"
+           width="64"
+           height="2"
+           x="0"
+           y="31"
+           inkscape:label="Barre centrale" />
+        <rect
+           style="fill:#2121de;fill-opacity:1;stroke-width:0.839348"
+           id="rect261-6"
+           width="64"
+           height="2"
+           x="0"
+           y="22"
+           inkscape:label="Bordure 2" />
+        <rect
+           style="fill:#2121de;fill-opacity:1;stroke-width:0.839348"
+           id="rect261-6-7"
+           width="64"
+           height="2"
+           x="0"
+           y="40"
+           inkscape:label="Bordure 1" />
+      </g>
+      <g
+         id="g4125-59-8"
+         inkscape:label="Barre extrémité haut"
+         transform="rotate(-90,194,-2)">
+        <rect
+           style="fill:none"
+           id="rect151-2-0"
+           width="64"
+           height="64"
+           x="0"
+           y="0"
+           inkscape:label="Fond" />
+        <rect
+           style="fill:#1919a6;fill-opacity:1;stroke-width:2.18066;stroke-dasharray:none"
+           id="rect261-3-28-2"
+           width="54"
+           height="16"
+           x="0"
+           y="24"
+           inkscape:label="Barre" />
+        <rect
+           style="fill:#2121de;fill-opacity:1;stroke-width:0.770991"
+           id="rect261-6-73-5"
+           width="54"
+           height="2"
+           x="0"
+           y="22"
+           inkscape:label="Bordure 2" />
+        <rect
+           style="fill:#2121de;fill-opacity:1;stroke-width:0.770991"
+           id="rect261-6-7-6-8"
+           width="54"
+           height="2"
+           x="0"
+           y="40"
+           inkscape:label="Bordure 1" />
+        <path
+           style="fill:#2121de;fill-opacity:1;stroke-width:2.374;stroke-dasharray:none"
+           id="path4543-5"
+           sodipodi:type="arc"
+           sodipodi:cx="54"
+           sodipodi:cy="32"
+           sodipodi:rx="10"
+           sodipodi:ry="10"
+           sodipodi:start="4.712389"
+           sodipodi:end="1.5707963"
+           sodipodi:arc-type="slice"
+           d="M 54,22 A 10,10 0 0 1 64,32 10,10 0 0 1 54,42 V 32 Z"
+           inkscape:label="Bordure arrondie" />
+        <path
+           style="fill:#1919a6;fill-opacity:1;stroke-width:2.374;stroke-dasharray:none"
+           id="path4543-1-29"
+           sodipodi:type="arc"
+           sodipodi:cx="54"
+           sodipodi:cy="32"
+           sodipodi:rx="8"
+           sodipodi:ry="8"
+           sodipodi:start="4.712389"
+           sodipodi:end="1.5707963"
+           sodipodi:arc-type="slice"
+           d="m 54,24 a 8,8 0 0 1 8,8 8,8 0 0 1 -8,8 v -8 z"
+           inkscape:label="Arrondi" />
+        <rect
+           style="fill:#2121de;fill-opacity:1;stroke-width:0.839348"
+           id="rect261-9-4"
+           width="64"
+           height="2"
+           x="0"
+           y="31"
+           inkscape:label="Barre centrale" />
+      </g>
+      <g
+         id="g4125-59-7"
+         inkscape:label="Barre extrémité gauche"
+         transform="rotate(180,96,96)">
+        <rect
+           style="fill:none"
+           id="rect151-2-4"
+           width="64"
+           height="64"
+           x="0"
+           y="0"
+           inkscape:label="Fond" />
+        <rect
+           style="fill:#1919a6;fill-opacity:1;stroke-width:2.18066;stroke-dasharray:none"
+           id="rect261-3-28-1"
+           width="54"
+           height="16"
+           x="0"
+           y="24"
+           inkscape:label="Barre" />
+        <rect
+           style="fill:#2121de;fill-opacity:1;stroke-width:0.770991"
+           id="rect261-6-73-16"
+           width="54"
+           height="2"
+           x="0"
+           y="22"
+           inkscape:label="Bordure 2" />
+        <rect
+           style="fill:#2121de;fill-opacity:1;stroke-width:0.770991"
+           id="rect261-6-7-6-4"
+           width="54"
+           height="2"
+           x="0"
+           y="40"
+           inkscape:label="Bordure 1" />
+        <path
+           style="fill:#2121de;fill-opacity:1;stroke-width:2.374;stroke-dasharray:none"
+           id="path4543-9"
+           sodipodi:type="arc"
+           sodipodi:cx="54"
+           sodipodi:cy="32"
+           sodipodi:rx="10"
+           sodipodi:ry="10"
+           sodipodi:start="4.712389"
+           sodipodi:end="1.5707963"
+           sodipodi:arc-type="slice"
+           d="M 54,22 A 10,10 0 0 1 64,32 10,10 0 0 1 54,42 V 32 Z"
+           inkscape:label="Bordure arrondie" />
+        <path
+           style="fill:#1919a6;fill-opacity:1;stroke-width:2.374;stroke-dasharray:none"
+           id="path4543-1-2"
+           sodipodi:type="arc"
+           sodipodi:cx="54"
+           sodipodi:cy="32"
+           sodipodi:rx="8"
+           sodipodi:ry="8"
+           sodipodi:start="4.712389"
+           sodipodi:end="1.5707963"
+           sodipodi:arc-type="slice"
+           d="m 54,24 a 8,8 0 0 1 8,8 8,8 0 0 1 -8,8 v -8 z"
+           inkscape:label="Arrondi" />
+        <rect
+           style="fill:#2121de;fill-opacity:1;stroke-width:0.839348"
+           id="rect261-9-2"
+           width="64"
+           height="2"
+           x="0"
+           y="31"
+           inkscape:label="Barre centrale" />
+      </g>
+      <g
+         id="g4125-59"
+         inkscape:label="Barre extrémité droite"
+         transform="translate(64,128)">
+        <rect
+           style="fill:none"
+           id="rect151-2"
+           width="64"
+           height="64"
+           x="0"
+           y="0"
+           inkscape:label="Fond" />
+        <rect
+           style="fill:#1919a6;fill-opacity:1;stroke-width:2.18066;stroke-dasharray:none"
+           id="rect261-3-28"
+           width="54"
+           height="16"
+           x="0"
+           y="24"
+           inkscape:label="Barre" />
+        <rect
+           style="fill:#2121de;fill-opacity:1;stroke-width:0.770991"
+           id="rect261-6-73"
+           width="54"
+           height="2"
+           x="0"
+           y="22"
+           inkscape:label="Bordure 2" />
+        <rect
+           style="fill:#2121de;fill-opacity:1;stroke-width:0.770991"
+           id="rect261-6-7-6"
+           width="54"
+           height="2"
+           x="0"
+           y="40"
+           inkscape:label="Bordure 1" />
+        <path
+           style="fill:#2121de;fill-opacity:1;stroke-width:2.374;stroke-dasharray:none"
+           id="path4543"
+           sodipodi:type="arc"
+           sodipodi:cx="54"
+           sodipodi:cy="32"
+           sodipodi:rx="10"
+           sodipodi:ry="10"
+           sodipodi:start="4.712389"
+           sodipodi:end="1.5707963"
+           sodipodi:arc-type="slice"
+           d="M 54,22 A 10,10 0 0 1 64,32 10,10 0 0 1 54,42 V 32 Z"
+           inkscape:label="Bordure arrondie" />
+        <path
+           style="fill:#1919a6;fill-opacity:1;stroke-width:2.374;stroke-dasharray:none"
+           id="path4543-1"
+           sodipodi:type="arc"
+           sodipodi:cx="54"
+           sodipodi:cy="32"
+           sodipodi:rx="8"
+           sodipodi:ry="8"
+           sodipodi:start="4.712389"
+           sodipodi:end="1.5707963"
+           sodipodi:arc-type="slice"
+           d="m 54,24 a 8,8 0 0 1 8,8 8,8 0 0 1 -8,8 v -8 z"
+           inkscape:label="Arrondi" />
+        <rect
+           style="fill:#2121de;fill-opacity:1;stroke-width:0.839348"
+           id="rect261-9"
+           width="64"
+           height="2"
+           x="0"
+           y="31"
+           inkscape:label="Barre centrale" />
+      </g>
+      <g
+         id="g4125-59-6"
+         inkscape:label="Barre extrémité bas"
+         transform="rotate(90,-32,96)">
+        <rect
+           style="fill:none"
+           id="rect151-2-6"
+           width="64"
+           height="64"
+           x="0"
+           y="0"
+           inkscape:label="Fond" />
+        <rect
+           style="fill:#1919a6;fill-opacity:1;stroke-width:2.18066;stroke-dasharray:none"
+           id="rect261-3-28-7"
+           width="54"
+           height="16"
+           x="0"
+           y="24"
+           inkscape:label="Barre" />
+        <rect
+           style="fill:#2121de;fill-opacity:1;stroke-width:0.770991"
+           id="rect261-6-73-1"
+           width="54"
+           height="2"
+           x="0"
+           y="22"
+           inkscape:label="Bordure 2" />
+        <rect
+           style="fill:#2121de;fill-opacity:1;stroke-width:0.770991"
+           id="rect261-6-7-6-1"
+           width="54"
+           height="2"
+           x="0"
+           y="40"
+           inkscape:label="Bordure1" />
+        <path
+           style="fill:#2121de;fill-opacity:1;stroke-width:2.374;stroke-dasharray:none"
+           id="path4543-3"
+           sodipodi:type="arc"
+           sodipodi:cx="54"
+           sodipodi:cy="32"
+           sodipodi:rx="10"
+           sodipodi:ry="10"
+           sodipodi:start="4.712389"
+           sodipodi:end="1.5707963"
+           sodipodi:arc-type="slice"
+           d="M 54,22 A 10,10 0 0 1 64,32 10,10 0 0 1 54,42 V 32 Z"
+           inkscape:label="Bordure arrondie" />
+        <path
+           style="fill:#1919a6;fill-opacity:1;stroke-width:2.374;stroke-dasharray:none"
+           id="path4543-1-5"
+           sodipodi:type="arc"
+           sodipodi:cx="54"
+           sodipodi:cy="32"
+           sodipodi:rx="8"
+           sodipodi:ry="8"
+           sodipodi:start="4.712389"
+           sodipodi:end="1.5707963"
+           sodipodi:arc-type="slice"
+           d="m 54,24 a 8,8 0 0 1 8,8 8,8 0 0 1 -8,8 v -8 z"
+           inkscape:label="Arrondi" />
+        <rect
+           style="fill:#2121de;fill-opacity:1;stroke-width:0.839348"
+           id="rect261-9-3"
+           width="64"
+           height="2"
+           x="0"
+           y="31"
+           inkscape:label="Barre centrale" />
+      </g>
+      <g
+         id="g4394-8-8-9"
+         inkscape:label="Barre croisée droit"
+         transform="rotate(180,128,64)">
+        <rect
+           style="fill:none"
+           id="rect151-3-7-7-5-1"
+           width="64"
+           height="64"
+           x="0"
+           y="-64"
+           inkscape:label="Fond"
+           transform="rotate(90)" />
+        <rect
+           style="fill:#1919a6;fill-opacity:1;stroke-width:2.374;stroke-dasharray:none"
+           id="rect261-3-2-2-5-8"
+           width="40"
+           height="16"
+           x="0"
+           y="24"
+           inkscape:label="Barre 2" />
+        <rect
+           style="fill:#1919a6;fill-opacity:1;stroke-width:2.374;stroke-dasharray:none"
+           id="rect261-3-5-0-8-1-4"
+           width="64"
+           height="16"
+           x="0"
+           y="-40"
+           inkscape:label="Barre 1"
+           transform="rotate(90)" />
+        <rect
+           style="fill:#2121de;fill-opacity:1;stroke-width:0.513993"
+           id="rect261-6-7-1-6-2-9-8-6"
+           width="24"
+           height="2"
+           x="40"
+           y="-24"
+           inkscape:label="Bordure 5"
+           transform="rotate(90)" />
+        <rect
+           style="fill:#2121de;fill-opacity:1;stroke-width:0.513993"
+           id="rect261-6-7-1-6-3-1-3-6"
+           width="64"
+           height="2"
+           x="0"
+           y="-42"
+           inkscape:label="Bordure 4"
+           transform="rotate(90)" />
+        <rect
+           style="fill:#2121de;fill-opacity:1;stroke-width:0.513993"
+           id="rect261-6-7-1-6-34-9-4"
+           width="24"
+           height="2"
+           x="0"
+           y="-24"
+           inkscape:label="Bordure 3"
+           transform="rotate(90)" />
+        <rect
+           style="fill:#2121de;fill-opacity:1;stroke-width:0.492111"
+           id="rect261-6-8-0-2-0"
+           width="22"
+           height="2"
+           x="0"
+           y="22"
+           inkscape:label="Bordure 2" />
+        <rect
+           style="fill:#2121de;fill-opacity:1;stroke-width:0.492111"
+           id="rect261-6-8-2-6-6-0"
+           width="22"
+           height="2"
+           x="0"
+           y="40"
+           inkscape:label="Bordure 1" />
+        <rect
+           style="fill:#2121de;fill-opacity:1;stroke-width:0.839348"
+           id="rect261-62-9-7-1-6"
+           width="64"
+           height="2"
+           x="0"
+           y="-33"
+           inkscape:label="Barre centrale 2"
+           transform="rotate(90)" />
+        <rect
+           style="fill:#2121de;fill-opacity:1;stroke-width:0.83935"
+           id="rect261-61-8-4-0"
+           width="33"
+           height="2"
+           x="0"
+           y="31"
+           inkscape:label="Barre centrale 1" />
+      </g>
+      <g
+         id="g4394-8-8"
+         inkscape:label="Barre croisée haut"
+         transform="rotate(90,64,128)">
+        <rect
+           style="fill:none"
+           id="rect151-3-7-7-5"
+           width="64"
+           height="64"
+           x="0"
+           y="-64"
+           inkscape:label="Fond"
+           transform="rotate(90)" />
+        <rect
+           style="fill:#1919a6;fill-opacity:1;stroke-width:2.374;stroke-dasharray:none"
+           id="rect261-3-2-2-5"
+           width="40"
+           height="16"
+           x="0"
+           y="24"
+           inkscape:label="Barre 2" />
+        <rect
+           style="fill:#1919a6;fill-opacity:1;stroke-width:2.374;stroke-dasharray:none"
+           id="rect261-3-5-0-8-1"
+           width="64"
+           height="16"
+           x="0"
+           y="-40"
+           inkscape:label="Barre 1"
+           transform="rotate(90)" />
+        <rect
+           style="fill:#2121de;fill-opacity:1;stroke-width:0.513993"
+           id="rect261-6-7-1-6-2-9-8"
+           width="24"
+           height="2"
+           x="40"
+           y="-24"
+           inkscape:label="Bordure 5"
+           transform="rotate(90)" />
+        <rect
+           style="fill:#2121de;fill-opacity:1;stroke-width:0.513993"
+           id="rect261-6-7-1-6-3-1-3"
+           width="64"
+           height="2"
+           x="0"
+           y="-42"
+           inkscape:label="Bordure 4"
+           transform="rotate(90)" />
+        <rect
+           style="fill:#2121de;fill-opacity:1;stroke-width:0.513993"
+           id="rect261-6-7-1-6-34-9"
+           width="24"
+           height="2"
+           x="0"
+           y="-24"
+           inkscape:label="Bordure 3"
+           transform="rotate(90)" />
+        <rect
+           style="fill:#2121de;fill-opacity:1;stroke-width:0.492111"
+           id="rect261-6-8-0-2"
+           width="22"
+           height="2"
+           x="0"
+           y="22"
+           inkscape:label="Bordure 2" />
+        <rect
+           style="fill:#2121de;fill-opacity:1;stroke-width:0.492111"
+           id="rect261-6-8-2-6-6"
+           width="22"
+           height="2"
+           x="0"
+           y="40"
+           inkscape:label="Bordure 1" />
+        <rect
+           style="fill:#2121de;fill-opacity:1;stroke-width:0.839348"
+           id="rect261-62-9-7-1"
+           width="64"
+           height="2"
+           x="0"
+           y="-33"
+           inkscape:label="Barre centrale 2"
+           transform="rotate(90)" />
+        <rect
+           style="fill:#2121de;fill-opacity:1;stroke-width:0.83935"
+           id="rect261-61-8-4"
+           width="33"
+           height="2"
+           x="0"
+           y="31"
+           inkscape:label="Barre centrale 1" />
+      </g>
+      <g
+         id="g4394-8"
+         inkscape:label="Barre croisée gauche"
+         transform="translate(64,64)">
+        <rect
+           style="fill:none"
+           id="rect151-3-7-7"
+           width="64"
+           height="64"
+           x="0"
+           y="-64"
+           inkscape:label="Fond"
+           transform="rotate(90)" />
+        <rect
+           style="fill:#1919a6;fill-opacity:1;stroke-width:2.374;stroke-dasharray:none"
+           id="rect261-3-2-2"
+           width="40"
+           height="16"
+           x="0"
+           y="24"
+           inkscape:label="Barre 2" />
+        <rect
+           style="fill:#1919a6;fill-opacity:1;stroke-width:2.374;stroke-dasharray:none"
+           id="rect261-3-5-0-8"
+           width="64"
+           height="16"
+           x="0"
+           y="-40"
+           inkscape:label="Barre 1"
+           transform="rotate(90)" />
+        <rect
+           style="fill:#2121de;fill-opacity:1;stroke-width:0.513993"
+           id="rect261-6-7-1-6-2-9"
+           width="24"
+           height="2"
+           x="40"
+           y="-24"
+           inkscape:label="Bordure 5"
+           transform="rotate(90)" />
+        <rect
+           style="fill:#2121de;fill-opacity:1;stroke-width:0.513993"
+           id="rect261-6-7-1-6-3-1"
+           width="64"
+           height="2"
+           x="0"
+           y="-42"
+           inkscape:label="Bordure 4"
+           transform="rotate(90)" />
+        <rect
+           style="fill:#2121de;fill-opacity:1;stroke-width:0.513993"
+           id="rect261-6-7-1-6-34"
+           width="24"
+           height="2"
+           x="0"
+           y="-24"
+           inkscape:label="Bordure 3"
+           transform="rotate(90)" />
+        <rect
+           style="fill:#2121de;fill-opacity:1;stroke-width:0.492111"
+           id="rect261-6-8-0"
+           width="22"
+           height="2"
+           x="0"
+           y="22"
+           inkscape:label="Bordure 2" />
+        <rect
+           style="fill:#2121de;fill-opacity:1;stroke-width:0.492111"
+           id="rect261-6-8-2-6"
+           width="22"
+           height="2"
+           x="0"
+           y="40"
+           inkscape:label="Bordure 1" />
+        <rect
+           style="fill:#2121de;fill-opacity:1;stroke-width:0.839348"
+           id="rect261-62-9-7"
+           width="64"
+           height="2"
+           x="0"
+           y="-33"
+           inkscape:label="Barre centrale 2"
+           transform="rotate(90)" />
+        <rect
+           style="fill:#2121de;fill-opacity:1;stroke-width:0.83935"
+           id="rect261-61-8"
+           width="33"
+           height="2"
+           x="0"
+           y="31"
+           inkscape:label="Barre centrale 1" />
+      </g>
+      <g
+         id="g4394-8-8-9-6"
+         inkscape:label="Barre croisée bas"
+         transform="rotate(-90,64,64)">
+        <rect
+           style="fill:none"
+           id="rect151-3-7-7-5-1-0"
+           width="64"
+           height="64"
+           x="0"
+           y="-64"
+           inkscape:label="Fond"
+           transform="rotate(90)" />
+        <rect
+           style="fill:#1919a6;fill-opacity:1;stroke-width:2.374;stroke-dasharray:none"
+           id="rect261-3-2-2-5-8-0"
+           width="40"
+           height="16"
+           x="0"
+           y="24"
+           inkscape:label="Barre 2" />
+        <rect
+           style="fill:#1919a6;fill-opacity:1;stroke-width:2.374;stroke-dasharray:none"
+           id="rect261-3-5-0-8-1-4-2"
+           width="64"
+           height="16"
+           x="0"
+           y="-40"
+           inkscape:label="Barre 1"
+           transform="rotate(90)" />
+        <rect
+           style="fill:#2121de;fill-opacity:1;stroke-width:0.513993"
+           id="rect261-6-7-1-6-2-9-8-6-1"
+           width="24"
+           height="2"
+           x="40"
+           y="-24"
+           inkscape:label="Bordure 5"
+           transform="rotate(90)" />
+        <rect
+           style="fill:#2121de;fill-opacity:1;stroke-width:0.513993"
+           id="rect261-6-7-1-6-3-1-3-6-2"
+           width="64"
+           height="2"
+           x="0"
+           y="-42"
+           inkscape:label="Bordure 4"
+           transform="rotate(90)" />
+        <rect
+           style="fill:#2121de;fill-opacity:1;stroke-width:0.513993"
+           id="rect261-6-7-1-6-34-9-4-4"
+           width="24"
+           height="2"
+           x="0"
+           y="-24"
+           inkscape:label="Bordure 3"
+           transform="rotate(90)" />
+        <rect
+           style="fill:#2121de;fill-opacity:1;stroke-width:0.492111"
+           id="rect261-6-8-0-2-0-9"
+           width="22"
+           height="2"
+           x="0"
+           y="22"
+           inkscape:label="Bordure 2" />
+        <rect
+           style="fill:#2121de;fill-opacity:1;stroke-width:0.492111"
+           id="rect261-6-8-2-6-6-0-8"
+           width="22"
+           height="2"
+           x="0"
+           y="40"
+           inkscape:label="Bordure 1" />
+        <rect
+           style="fill:#2121de;fill-opacity:1;stroke-width:0.839348"
+           id="rect261-62-9-7-1-6-9"
+           width="64"
+           height="2"
+           x="0"
+           y="-33"
+           inkscape:label="Barre centrale 2"
+           transform="rotate(90)" />
+        <rect
+           style="fill:#2121de;fill-opacity:1;stroke-width:0.83935"
+           id="rect261-61-8-4-0-7"
+           width="33"
+           height="2"
+           x="0"
+           y="31"
+           inkscape:label="Barre centrale 1" />
+      </g>
+      <g
+         id="g4394-8-8-9-6-5"
+         inkscape:label="Barre coudée gauche-bas"
+         transform="rotate(-90,128,-64)">
+        <rect
+           style="fill:none"
+           id="rect151-3-7-7-5-1-0-8"
+           width="64"
+           height="64"
+           x="0"
+           y="-64"
+           inkscape:label="Fond"
+           transform="rotate(90)" />
+        <rect
+           style="fill:#1919a6;fill-opacity:1;stroke-width:2.374;stroke-dasharray:none"
+           id="rect261-3-2-2-5-8-0-1"
+           width="40"
+           height="16"
+           x="0"
+           y="24"
+           inkscape:label="Barre 2" />
+        <rect
+           style="fill:#1919a6;fill-opacity:1;stroke-width:2.374;stroke-dasharray:none"
+           id="rect261-3-5-0-8-1-4-2-3"
+           width="40"
+           height="16"
+           x="0"
+           y="-40"
+           inkscape:label="Barre 1"
+           transform="rotate(90)" />
+        <rect
+           style="fill:#2121de;fill-opacity:1;stroke-width:0.513993"
+           id="rect261-6-7-1-6-3-1-3-6-2-5"
+           width="42"
+           height="2"
+           x="0"
+           y="-42"
+           inkscape:label="Bordure 4"
+           transform="rotate(90)" />
+        <rect
+           style="fill:#2121de;fill-opacity:1;stroke-width:0.513993"
+           id="rect261-6-7-1-6-34-9-4-4-4"
+           width="24"
+           height="2"
+           x="0"
+           y="-24"
+           inkscape:label="Bordure 3"
+           transform="rotate(90)" />
+        <rect
+           style="fill:#2121de;fill-opacity:1;stroke-width:0.492111"
+           id="rect261-6-8-0-2-0-9-8"
+           width="22"
+           height="2"
+           x="0"
+           y="22"
+           inkscape:label="Bordure 2" />
+        <rect
+           style="fill:#2121de;fill-opacity:1;stroke-width:0.492111"
+           id="rect261-6-8-2-6-6-0-8-8"
+           width="40"
+           height="2"
+           x="-6.0000002e-07"
+           y="40"
+           inkscape:label="Bordure 1" />
+        <rect
+           style="fill:#2121de;fill-opacity:1;stroke-width:0.83935"
+           id="rect261-62-9-7-1-6-9-8"
+           width="33"
+           height="2"
+           x="0"
+           y="-33"
+           inkscape:label="Barre centrale 2"
+           transform="rotate(90)" />
+        <rect
+           style="fill:#2121de;fill-opacity:1;stroke-width:0.83935"
+           id="rect261-61-8-4-0-7-5"
+           width="33"
+           height="2"
+           x="0"
+           y="31"
+           inkscape:label="Barre centrale 1" />
+      </g>
+      <g
+         id="g4394-8-8-9-6-5-4"
+         inkscape:label="Barre coudée gauche-haut"
+         transform="translate(128)">
+        <rect
+           style="fill:none"
+           id="rect151-3-7-7-5-1-0-8-7"
+           width="64"
+           height="64"
+           x="0"
+           y="-64"
+           inkscape:label="Fond"
+           transform="rotate(90)" />
+        <rect
+           style="fill:#1919a6;fill-opacity:1;stroke-width:2.374;stroke-dasharray:none"
+           id="rect261-3-2-2-5-8-0-1-0"
+           width="40"
+           height="16"
+           x="0"
+           y="24"
+           inkscape:label="Barre 2" />
+        <rect
+           style="fill:#1919a6;fill-opacity:1;stroke-width:2.374;stroke-dasharray:none"
+           id="rect261-3-5-0-8-1-4-2-3-9"
+           width="40"
+           height="16"
+           x="0"
+           y="-40"
+           inkscape:label="Barre 1"
+           transform="rotate(90)" />
+        <rect
+           style="fill:#2121de;fill-opacity:1;stroke-width:0.513993"
+           id="rect261-6-7-1-6-3-1-3-6-2-5-5"
+           width="42"
+           height="2"
+           x="0"
+           y="-42"
+           inkscape:label="Bordure 4"
+           transform="rotate(90)" />
+        <rect
+           style="fill:#2121de;fill-opacity:1;stroke-width:0.513993"
+           id="rect261-6-7-1-6-34-9-4-4-4-6"
+           width="24"
+           height="2"
+           x="0"
+           y="-24"
+           inkscape:label="Bordure 3"
+           transform="rotate(90)" />
+        <rect
+           style="fill:#2121de;fill-opacity:1;stroke-width:0.492111"
+           id="rect261-6-8-0-2-0-9-8-7"
+           width="22"
+           height="2"
+           x="0"
+           y="22"
+           inkscape:label="Bordure 2" />
+        <rect
+           style="fill:#2121de;fill-opacity:1;stroke-width:0.492111"
+           id="rect261-6-8-2-6-6-0-8-8-1"
+           width="40"
+           height="2"
+           x="-6.0000002e-07"
+           y="40"
+           inkscape:label="Bordure 1" />
+        <rect
+           style="fill:#2121de;fill-opacity:1;stroke-width:0.83935"
+           id="rect261-62-9-7-1-6-9-8-4"
+           width="33"
+           height="2"
+           x="0"
+           y="-33"
+           inkscape:label="Barre centrale 2"
+           transform="rotate(90)" />
+        <rect
+           style="fill:#2121de;fill-opacity:1;stroke-width:0.83935"
+           id="rect261-61-8-4-0-7-5-8"
+           width="33"
+           height="2"
+           x="0"
+           y="31"
+           inkscape:label="Barre centrale 1" />
+      </g>
+      <g
+         id="g4394-8-8-9-6-5-4-3"
+         inkscape:label="Barre coudée droit-haut"
+         transform="rotate(90,64,64)">
+        <rect
+           style="fill:none"
+           id="rect151-3-7-7-5-1-0-8-7-1"
+           width="64"
+           height="64"
+           x="0"
+           y="-64"
+           inkscape:label="Fond"
+           transform="rotate(90)" />
+        <rect
+           style="fill:#1919a6;fill-opacity:1;stroke-width:2.374;stroke-dasharray:none"
+           id="rect261-3-2-2-5-8-0-1-0-2"
+           width="40"
+           height="16"
+           x="0"
+           y="24"
+           inkscape:label="Barre 2" />
+        <rect
+           style="fill:#1919a6;fill-opacity:1;stroke-width:2.374;stroke-dasharray:none"
+           id="rect261-3-5-0-8-1-4-2-3-9-9"
+           width="40"
+           height="16"
+           x="0"
+           y="-40"
+           inkscape:label="Barre 1"
+           transform="rotate(90)" />
+        <rect
+           style="fill:#2121de;fill-opacity:1;stroke-width:0.513993"
+           id="rect261-6-7-1-6-3-1-3-6-2-5-5-9"
+           width="42"
+           height="2"
+           x="0"
+           y="-42"
+           inkscape:label="Bordure 4"
+           transform="rotate(90)" />
+        <rect
+           style="fill:#2121de;fill-opacity:1;stroke-width:0.513993"
+           id="rect261-6-7-1-6-34-9-4-4-4-6-3"
+           width="24"
+           height="2"
+           x="0"
+           y="-24"
+           inkscape:label="Bordure 3"
+           transform="rotate(90)" />
+        <rect
+           style="fill:#2121de;fill-opacity:1;stroke-width:0.492111"
+           id="rect261-6-8-0-2-0-9-8-7-4"
+           width="22"
+           height="2"
+           x="0"
+           y="22"
+           inkscape:label="Bordure 2" />
+        <rect
+           style="fill:#2121de;fill-opacity:1;stroke-width:0.492111"
+           id="rect261-6-8-2-6-6-0-8-8-1-2"
+           width="40"
+           height="2"
+           x="-6.0000002e-07"
+           y="40"
+           inkscape:label="Bordure 1" />
+        <rect
+           style="fill:#2121de;fill-opacity:1;stroke-width:0.83935"
+           id="rect261-62-9-7-1-6-9-8-4-8"
+           width="33"
+           height="2"
+           x="0"
+           y="-33"
+           inkscape:label="Barre centrale 2"
+           transform="rotate(90)" />
+        <rect
+           style="fill:#2121de;fill-opacity:1;stroke-width:0.83935"
+           id="rect261-61-8-4-0-7-5-8-7"
+           width="33"
+           height="2"
+           x="0"
+           y="31"
+           inkscape:label="Barre centrale 1" />
+      </g>
+      <g
+         id="g4394-8-8-9-6-5-4-3-0"
+         inkscape:label="Barre coudée droit-bas"
+         transform="rotate(180,32,32)">
+        <rect
+           style="fill:none"
+           id="rect151-3-7-7-5-1-0-8-7-1-9"
+           width="64"
+           height="64"
+           x="0"
+           y="-64"
+           inkscape:label="Fond"
+           transform="rotate(90)" />
+        <rect
+           style="fill:#1919a6;fill-opacity:1;stroke-width:2.374;stroke-dasharray:none"
+           id="rect261-3-2-2-5-8-0-1-0-2-6"
+           width="40"
+           height="16"
+           x="0"
+           y="24"
+           inkscape:label="Barre 2" />
+        <rect
+           style="fill:#1919a6;fill-opacity:1;stroke-width:2.374;stroke-dasharray:none"
+           id="rect261-3-5-0-8-1-4-2-3-9-9-7"
+           width="40"
+           height="16"
+           x="0"
+           y="-40"
+           inkscape:label="Barre 1"
+           transform="rotate(90)" />
+        <rect
+           style="fill:#2121de;fill-opacity:1;stroke-width:0.513993"
+           id="rect261-6-7-1-6-3-1-3-6-2-5-5-9-6"
+           width="42"
+           height="2"
+           x="0"
+           y="-42"
+           inkscape:label="Bordure 4"
+           transform="rotate(90)" />
+        <rect
+           style="fill:#2121de;fill-opacity:1;stroke-width:0.513993"
+           id="rect261-6-7-1-6-34-9-4-4-4-6-3-3"
+           width="24"
+           height="2"
+           x="0"
+           y="-24"
+           inkscape:label="Bordure 3"
+           transform="rotate(90)" />
+        <rect
+           style="fill:#2121de;fill-opacity:1;stroke-width:0.492111"
+           id="rect261-6-8-0-2-0-9-8-7-4-0"
+           width="22"
+           height="2"
+           x="0"
+           y="22"
+           inkscape:label="Bordure 2" />
+        <rect
+           style="fill:#2121de;fill-opacity:1;stroke-width:0.492111"
+           id="rect261-6-8-2-6-6-0-8-8-1-2-4"
+           width="40"
+           height="2"
+           x="-6.0000002e-07"
+           y="40"
+           inkscape:label="Bordure 1" />
+        <rect
+           style="fill:#2121de;fill-opacity:1;stroke-width:0.83935"
+           id="rect261-62-9-7-1-6-9-8-4-8-3"
+           width="33"
+           height="2"
+           x="0"
+           y="-33"
+           inkscape:label="Barre centrale 2"
+           transform="rotate(90)" />
+        <rect
+           style="fill:#2121de;fill-opacity:1;stroke-width:0.83935"
+           id="rect261-61-8-4-0-7-5-8-7-0"
+           width="33"
+           height="2"
+           x="0"
+           y="31"
+           inkscape:label="Barre centrale 1" />
+      </g>
+    </g>
+  </g>
+  <metadata
+     id="metadata149">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
