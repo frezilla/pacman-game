@@ -8,9 +8,10 @@
    version="1.1"
    id="svg143"
    inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
-   sodipodi:docname="Pacem-tileset.svg"
+   sodipodi:docname="tileset.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -26,9 +27,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="3.0011188"
-     inkscape:cx="90.632867"
-     inkscape:cy="140.28102"
+     inkscape:zoom="4.2442229"
+     inkscape:cx="-57.96114"
+     inkscape:cy="128.40984"
      inkscape:window-width="2560"
      inkscape:window-height="1377"
      inkscape:window-x="1912"
@@ -43,39 +44,71 @@
        originy="0" />
   </sodipodi:namedview>
   <defs
-     id="defs140" />
+     id="defs140">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1444">
+      <stop
+         style="stop-color:#aa3232;stop-opacity:1;"
+         offset="0"
+         id="stop1440" />
+      <stop
+         style="stop-color:#aa3232;stop-opacity:0;"
+         offset="1"
+         id="stop1442" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1444"
+       id="radialGradient1448"
+       cx="32"
+       cy="32"
+       fx="32"
+       fy="32"
+       r="17.889765"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1444"
+       id="radialGradient1448-7"
+       cx="32"
+       cy="32"
+       fx="32"
+       fy="32"
+       r="17.889765"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1444"
+       id="radialGradient1448-7-4"
+       cx="32"
+       cy="32"
+       fx="32"
+       fy="32"
+       r="17.889765"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1444"
+       id="radialGradient1448-7-43"
+       cx="32"
+       cy="32"
+       fx="32"
+       fy="32"
+       r="17.889765"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
   <g
      inkscape:label="Tuiles"
      inkscape:groupmode="layer"
      id="layer1"
      style="display:inline">
     <g
-       id="g3753"
-       inkscape:label="Pastille"
-       transform="translate(0,128)">
-      <rect
-         style="display:inline;fill:none"
-         id="rect151-3-7-7-5-1-0-8-7-1-9-7"
-         width="64"
-         height="64"
-         x="-64"
-         y="64"
-         inkscape:label="Fond"
-         transform="rotate(90,32,96)" />
-      <circle
-         style="display:inline;fill:#ffff00;fill-opacity:1;stroke:#aa3232;stroke-width:0"
-         id="path2999"
-         cx="32"
-         cy="32"
-         r="4"
-         inkscape:label="Pastille" />
-    </g>
-    <g
        id="g4154"
        inkscape:label="Gomme">
       <g
          id="g3753-1-5"
-         inkscape:label="Gomme Pastille 5"
+         inkscape:label="Pastille"
          style="display:inline"
          transform="translate(256,256)">
         <rect
@@ -88,7 +121,7 @@
            inkscape:label="Fond"
            transform="rotate(90,32,96)" />
         <circle
-           style="display:inline;fill:#ffff00;fill-opacity:1;stroke:#aa3232;stroke-width:0"
+           style="display:inline;fill:#ffff00;fill-opacity:1;stroke:#aa3232;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
            id="path2999-9-6"
            cx="32"
            cy="32"
@@ -96,13 +129,13 @@
            r="8" />
       </g>
       <g
-         id="g3753-1-6-4"
-         inkscape:label="Gomme Pastille 1"
+         id="g3753-1-3-5"
+         inkscape:label="Super 4"
          style="display:inline"
-         transform="translate(192,256)">
+         transform="translate(196,256)">
         <rect
            style="display:inline;fill:none"
-           id="rect151-3-7-7-5-1-0-8-7-1-9-7-9-0-4"
+           id="rect151-3-7-7-5-1-0-8-7-1-9-7-9-8-9"
            width="64"
            height="64"
            x="-64"
@@ -110,21 +143,21 @@
            inkscape:label="Fond"
            transform="rotate(90,32,96)" />
         <circle
-           style="display:inline;fill:#ffff00;fill-opacity:1;stroke:#aa3232;stroke-width:0"
-           id="path2999-9-2-4"
+           style="display:inline;fill:#ffff00;fill-opacity:1;stroke:url(#radialGradient1448-7-4);stroke-width:7.55905512;stroke-dasharray:none;stroke-opacity:1"
+           id="path2999-9-1-9"
            cx="32"
            cy="32"
            inkscape:label="Pastille"
-           r="10" />
+           r="16" />
       </g>
       <g
-         id="g3753-1-6"
-         inkscape:label="Gomme Pastille 3"
+         id="g3753-1-3-8"
+         inkscape:label="Super 3"
          style="display:inline"
          transform="translate(128,256)">
         <rect
            style="display:inline;fill:none"
-           id="rect151-3-7-7-5-1-0-8-7-1-9-7-9-0"
+           id="rect151-3-7-7-5-1-0-8-7-1-9-7-9-8-8"
            width="64"
            height="64"
            x="-64"
@@ -132,21 +165,21 @@
            inkscape:label="Fond"
            transform="rotate(90,32,96)" />
         <circle
-           style="display:inline;fill:#ffff00;fill-opacity:1;stroke:#aa3232;stroke-width:0"
-           id="path2999-9-2"
+           style="display:inline;fill:#ffff00;fill-opacity:1;stroke:url(#radialGradient1448-7-43);stroke-width:5.66929134;stroke-dasharray:none;stroke-opacity:1"
+           id="path2999-9-1-4"
            cx="32"
            cy="32"
            inkscape:label="Pastille"
-           r="12" />
+           r="16" />
       </g>
       <g
-         id="g3753-1-1"
-         inkscape:label="Gomme Pastille 2"
+         id="g3753-1-3"
+         inkscape:label="Super 2"
          style="display:inline"
          transform="translate(64,256)">
         <rect
            style="display:inline;fill:none"
-           id="rect151-3-7-7-5-1-0-8-7-1-9-7-9-9"
+           id="rect151-3-7-7-5-1-0-8-7-1-9-7-9-8"
            width="64"
            height="64"
            x="-64"
@@ -154,16 +187,16 @@
            inkscape:label="Fond"
            transform="rotate(90,32,96)" />
         <circle
-           style="display:inline;fill:#ffff00;fill-opacity:1;stroke:#aa3232;stroke-width:0"
-           id="path2999-9-3"
+           style="display:inline;fill:#ffff00;fill-opacity:1;stroke:url(#radialGradient1448-7);stroke-width:3.77952756;stroke-dasharray:none;stroke-opacity:1"
+           id="path2999-9-1"
            cx="32"
            cy="32"
            inkscape:label="Pastille"
-           r="14" />
+           r="16" />
       </g>
       <g
          id="g3753-1"
-         inkscape:label="Gomme Pastille 1"
+         inkscape:label="Super 1"
          style="display:inline"
          transform="translate(0,256)">
         <rect
@@ -176,7 +209,7 @@
            inkscape:label="Fond"
            transform="rotate(90,32,96)" />
         <circle
-           style="display:inline;fill:#ffff00;fill-opacity:1;stroke:#aa3232;stroke-width:0"
+           style="display:inline;fill:#ffff00;fill-opacity:1;stroke:url(#radialGradient1448);stroke-width:1.88976;stroke-dasharray:none;stroke-opacity:1"
            id="path2999-9"
            cx="32"
            cy="32"
@@ -1371,6 +1404,45 @@
            inkscape:label="Barre centrale 1" />
       </g>
     </g>
+    <path
+       style="fill:#ffff00;stroke:#dcdf00;stroke-width:0.5;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="path1611"
+       sodipodi:type="arc"
+       sodipodi:cx="-30.665937"
+       sodipodi:cy="36.113564"
+       sodipodi:rx="24"
+       sodipodi:ry="24"
+       sodipodi:start="0.29670597"
+       sodipodi:end="5.8346357"
+       sodipodi:arc-type="slice"
+       d="M -7.7146233,43.130484 A 24,24 0 0 1 -33.309969,59.967475 24,24 0 0 1 -54.596801,37.933937 24,24 0 0 1 -36.887709,12.934056 24,24 0 0 1 -9.0400888,25.705746 L -30.665937,36.113564 Z"
+       transform="scale(-1,1)" />
+    <path
+       style="fill:#000000;stroke:#aa3232;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="path1613"
+       sodipodi:type="arc"
+       sodipodi:cx="-25.079453"
+       sodipodi:cy="21.547167"
+       sodipodi:rx="1.5374311"
+       sodipodi:ry="3.8289928"
+       sodipodi:start="0.19547688"
+       sodipodi:end="6.0388392"
+       sodipodi:arc-type="slice"
+       d="m -23.571302,22.290889 a 1.5374311,3.8289928 0 0 1 -1.639473,3.071277 1.5374311,3.8289928 0 0 1 -1.40565,-3.721449 1.5374311,3.8289928 0 0 1 1.330978,-3.888018 1.5374311,3.8289928 0 0 1 1.697757,2.868151 l -1.491763,0.926317 z"
+       transform="scale(-1,1)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.951611;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="path1615"
+       sodipodi:type="arc"
+       sodipodi:cx="25.598825"
+       sodipodi:cy="22.097157"
+       sodipodi:rx="5.5290394"
+       sodipodi:ry="8.0034456"
+       sodipodi:start="4.0290314"
+       sodipodi:end="6.15268"
+       sodipodi:arc-type="arc"
+       d="m 22.107789,15.890828 a 5.5290394,8.0034456 0 0 1 5.533995,-1.230731 5.5290394,8.0034456 0 0 1 3.439063,6.39553"
+       sodipodi:open="true" />
   </g>
   <metadata
      id="metadata149">
